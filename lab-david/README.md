@@ -10,6 +10,6 @@ If both values are numbers, we return the combined total of both.
 
 Subtract does the exact same thing as add: two arguements taken in and type checked to make sure they are numbers. If not, return null. If they are, return a - b.
 
-I could write another check to make sure both a and b are entered by the user, but this seems out of the scope of the lab so I won't. 
+I could write another check to make sure both a and b are entered by the user, but the lab didn't ask for it so I won't.
 
 Took about 15 minutes. 
