@@ -2,6 +2,6 @@
 
 module.exports = (str) => {
     
-    return (typeof str !== 'string') ? null : `Hello ${str}`
+  return (typeof str !== 'string') ? null : `Hello ${str}`;
     
 };
